@@ -55,4 +55,5 @@ public class BienBao{
         this.Noidung = noidung;
         this.MaLoaiBB = maLoaiBB;
     }
+//    trungggggggggggg
 }
